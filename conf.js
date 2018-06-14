@@ -6,3 +6,4 @@ exports.config = {
     browserName: 'chrome'
   }
 };
+

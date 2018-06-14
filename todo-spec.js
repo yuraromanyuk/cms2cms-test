@@ -7,7 +7,7 @@ describe('angularjs homepage todo list', function() {
 
     element(by.id('signUpPassword')).sendKeys('12344321qwe');
     element(by.id('signUpName')).sendKeys('Yura Romanyuk');
-    element(by.id('signUpPhone')).sendKeys('(201) 555-0123');
+    element(by.id('signUpPhone')).sendKeys('(132) 555-0123');
     element(by.id('agree-with-terms')).click();
 	
     element(by.css('button.btn.btn-default')).click();
